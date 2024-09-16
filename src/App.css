@@ -196,8 +196,24 @@ margin-top: 10px;
 }
 @media (max-width: 768px) {
   .homediv h1{
-    font-size: 23px;
+    font-size: 20px;
   }
+  .homediv p{
+    font-size: 13px;
+  }
+  .homediv{
+  height: 50vh;
+   background-position: center;
+   background-repeat:no-repeat;
+   background-size: cover;
+   color: #ccc;
+   width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: background-image 1s ease-in-out;
+   }
   .navbar{
     display: none;
   }
