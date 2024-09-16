@@ -196,6 +196,7 @@ margin-top: 10px;
 }
 @media (max-width: 768px) {
   .homediv h1{
+    padding-left: 10px;
     font-size: 20px;
   }
   .homediv p{
