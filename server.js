@@ -6,7 +6,7 @@ const cors =require('cors')
 const app = express();
 require('dotenv').config();
 app.use(cors({
-    origin: 'http://localhost:3000', // Replace with your frontend's origin
+    origin: 'https://cityadvocate.netlify.app', // Replace with your frontend's origin
     methods: 'POST',
     credentials: true, // If you need to send cookies or authorization headers
   }));
