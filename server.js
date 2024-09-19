@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 
 
 // Handle form submission
-app.post('/Contacts', (req, res) => {
+app.post('/contacts', (req, res) => {
     console.log(req.body)
     const {jina,somo,mail,maneno } = req.body;
 
