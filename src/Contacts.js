@@ -27,7 +27,7 @@ function Contacts() {
         setFeedback('Failed to send message.');  // Set error message if saving failed
       }
     } catch (error) {
-      setFeedback('An error occurred while saving the item.');
+      setFeedback('An error occurred while sending message.');
     }
   // New item added
   
