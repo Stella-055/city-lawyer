@@ -10,7 +10,7 @@ function Contacts() {
   const[feedback,setFeedback]=useState("");
   const sendfile = async (name, email,subject,messages) => {
     try {
-      const response = await fetch('http://localhost:5000/Contacts', {
+      const response = await fetch('https://city-lawyer.onrender.com', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
