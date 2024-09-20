@@ -113,6 +113,7 @@ width: 100%;
   width: 350px;
   height: 3px;
 margin-top: 10px;
+background-color: #f8f9fa;
 }/*
 .homedivp::after{
   content: "";
@@ -210,9 +211,9 @@ margin-top: 10px;
    color: #ccc;
    width: 100vw;
     display: flex;
-    flex-direction: column;
+
     justify-content: center;
-    align-items: center;
+    align-content: center;
     transition: background-image 1s ease-in-out;
    }
   .navbar{
