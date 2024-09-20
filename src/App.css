@@ -1,5 +1,5 @@
 body{
-
+  scroll-behavior: smooth;
   font-family: 'Merriweather', serif;
  box-sizing: border-box;
 }
@@ -197,18 +197,18 @@ margin-top: 10px;
 @media (max-width: 768px) {
   .homediv h1{
    margin-left: 10px;
-    font-size: 20px;
+    font-size: 24px;
   }
   .homediv p{
-    font-size: 13px;
+    font-size: 15px;
   }
   .homediv{
-  height: 50vh;
+  height: 70vh;
    background-position: center;
    background-repeat:no-repeat;
    background-size: cover;
    color: #ccc;
-   width: 100%;
+   width: 100vw;
     display: flex;
     flex-direction: column;
     justify-content: center;

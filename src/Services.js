@@ -8,14 +8,16 @@ function Services() {
       <div className="container">
         <h1 className="section-title">Legal Services</h1>
         <p className="section-intro">
-         I offer a wide range of specialized legal services designed to meet the unique needs of my clients. With a focus on cybersecurity, business intelligence, civil litigation, criminal litigation, and real estate law, I am dedicated to providing expert legal counsel and strategic representation.
+         I offer a wide range of specialized legal services designed to meet the unique needs of my clients. With a focus on cybersecurity, business intelligence, civil litigation, criminal litigation, and real estate law, I am dedicated to providing expert legal counsel and strategic representation in court.
         </p>
         
         <div className="service-list">
           <div className="service-item">
             <h2>Cybersecurity Law</h2>
             <p>
-             I help businesses navigate complex cybersecurity regulations, ensuring compliance and protecting sensitive data from cyber threats. My expertise includes data breach response, regulatory compliance, and privacy issues.
+             I help businesses navigate complex cybersecurity regulations, ensuring compliance and protecting sensitive data from cyber threats. My expertise includes data breach response, regulatory compliance, privacy issues and data protection laws. As a data protection legal expert, I provide guidance on implementing policies that safeguard personal and sensitive information, aligning with both local and international regulations .
+
+
             </p>
           </div>
 

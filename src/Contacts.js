@@ -73,8 +73,8 @@ function Contacts() {
           <div className="contact-info">
             <h2>Contact Information</h2>
             <p>Email: <a href="mailto:lovettschola@gmail.com">lovettschola@gmail.com</a></p>
-            <p>Phone: <a href="tel:+254729981393">+254729981393</a></p>
-            <p> <FaLinkedinIn/>Linkedin: <a href="https://www.linkedin.com/in/schola-achieno-0016301a3/?trk=contact-info">Shola Achieno</a></p>
+            <p>Phone: <a href="tel:+254729981393"> 0758418311 /0729981393</a></p>
+            <p> <FaLinkedinIn/>Linkedin: <a href="https://www.linkedin.com/in/schola-achieno-0016301a3/?trk=contact-info">Schola Achieno</a></p>
           </div>
 
           <div className="contact-form">
